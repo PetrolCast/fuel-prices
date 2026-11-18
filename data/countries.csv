@@ -19,6 +19,7 @@ FR,France,EUR
 GB,United Kingdom,GBP
 GH,Ghana,GHS
 GR,Greece,EUR
+HK,Hong Kong,HKD
 HR,Croatia,EUR
 HU,Hungary,HUF
 ID,Indonesia,IDR
@@ -51,7 +52,9 @@ SE,Sweden,SEK
 SG,Singapore,SGD
 SI,Slovenia,EUR
 SK,Slovakia,EUR
+TH,Thailand,THB
 TR,Turkey,TRY
+TW,Taiwan,TWD
 US,United States,USD
 VN,Vietnam,VND
 ZA,South Africa,ZAR
