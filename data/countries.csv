@@ -1,0 +1,56 @@
+country_code,name,currency
+AE,United Arab Emirates,AED
+AT,Austria,EUR
+AU,Australia,AUD
+BD,Bangladesh,BDT
+BE,Belgium,EUR
+BG,Bulgaria,EUR
+BR,Brazil,BRL
+CA,Canada,CAD
+CY,Cyprus,EUR
+CZ,Czechia,CZK
+DE,Germany,EUR
+DK,Denmark,DKK
+EE,Estonia,EUR
+EG,Egypt,EGP
+ES,Spain,EUR
+FI,Finland,EUR
+FR,France,EUR
+GB,United Kingdom,GBP
+GH,Ghana,GHS
+GR,Greece,EUR
+HR,Croatia,EUR
+HU,Hungary,HUF
+ID,Indonesia,IDR
+IE,Ireland,EUR
+IN,India,INR
+IT,Italy,EUR
+JP,Japan,JPY
+KE,Kenya,KES
+KR,South Korea,KRW
+LK,Sri Lanka,LKR
+LT,Lithuania,EUR
+LU,Luxembourg,EUR
+LV,Latvia,EUR
+MT,Malta,EUR
+MX,Mexico,MXN
+MY,Malaysia,MYR
+NG,Nigeria,NGN
+NL,Netherlands,EUR
+NZ,New Zealand,NZD
+OM,Oman,OMR
+PH,Philippines,PHP
+PK,Pakistan,PKR
+PL,Poland,PLN
+PT,Portugal,EUR
+QA,Qatar,QAR
+RO,Romania,RON
+SA,Saudi Arabia,SAR
+SE,Sweden,SEK
+SG,Singapore,SGD
+SI,Slovenia,EUR
+SK,Slovakia,EUR
+TR,Turkey,TRY
+US,United States,USD
+VN,Vietnam,VND
+ZA,South Africa,ZAR
